@@ -6,7 +6,7 @@ The demo includes 24 fictional repair orders and 8 inventory items. Create, edit
 
 Images are stored temporarily in this browser, with up to five images per order and a 700 KB limit per image. No remote image upload occurs; images expire at the next clock hour.
 
-Phone layouts use a fixed Home / Orders / New Order / Parts / Revenue bottom tab bar, order status filters, compact order rows and expandable parts, compact revenue summaries and breakdowns, two-column dashboard tiles (one column on very narrow phones), touch-size actions, and scrollable dialogs. Tablets and desktops retain tables and sidebar navigation. Large desktop content is constrained for readability.
+Phone layouts use a fixed Home / Orders / New Order / Parts / Revenue bottom tab bar, order status filters, compact order rows and expandable parts, compact revenue summaries and a trend chart, two-column dashboard tiles (one column on very narrow phones), touch-size actions, and scrollable dialogs. Tablets and desktops retain tables and sidebar navigation. Large desktop content is constrained for readability.
 
 Only the frontend and logo assets were copied from `../cc`. Production configuration, PHP files, SQL, and Git history are excluded.
 
