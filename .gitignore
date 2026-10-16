@@ -1,0 +1,3 @@
+# Local test server output and browser verification screenshots
+*.log
+*-preview.png

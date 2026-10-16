@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "JobTracker Demo",
+  "short_name": "JobTracker",
+  "description": "Local repair-order tracking demo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0755ef",
+  "theme_color": "#0755ef",
+  "icons": [
+    {
+      "src": "./assets/icons/jobtracker-demo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/jobtracker-demo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
